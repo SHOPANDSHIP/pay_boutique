@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.name          = 'pay_boutique'
   spec.version       = PayBoutique::VERSION
   spec.authors       = ['Yuri Zubov', 'Alexandr Senyuk']
-  spec.email         = ['I0Result86@gmail.com']
+  spec.email         = ['I0Result86@gmail.com', 'a.senyuk@sumatosoft.com']
   spec.homepage      = 'https://github.com/SumatoSoft/pay-boutique'
 
   spec.summary       = 'Payment system PayBoutique'
